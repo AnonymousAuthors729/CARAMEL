@@ -12,7 +12,7 @@
  
 `syringe_pump`, `ultrasonic_sensor`, `temperature_sensor`, `rover` - software for example sensor applications
  
-`tcb` - contains all source and header files for ACFA software TCB.
+`tcb` - contains all source and header files for CARAMEL software TCB.
  
 ### Requirements / Recommended setup
  
